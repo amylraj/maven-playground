@@ -3,7 +3,16 @@
 
 # Generated Files
 .idea/*
-target/* 
+target/*
+
+
+# Test Plugins
+plugin_python
+
+
+
+
+
 
 
 
