@@ -14,6 +14,6 @@ public class App {
     public static void main( String[] args )
     {
         LOG.error("Generating Call Sites for Error");
-        System.out.println( "Hello World!" );
+        System.out.println( "Sample Ref 1" );
     }
 }
